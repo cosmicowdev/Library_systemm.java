@@ -38,7 +38,7 @@ LivrariaVirtual/ ├── AndroidManifest.xml ├── src/ │   └── co
 
 ---
 
-## ▶️ Como executar no AIDE
+## Como executar no AIDE
 
 1. Baixe o projeto (.zip)  
 2. Extraia a pasta  
@@ -49,7 +49,7 @@ LivrariaVirtual/ ├── AndroidManifest.xml ├── src/ │   └── co
 
 ---
 
-## 🎯 Objetivo do projeto
+## Objetivo do projeto
 
 Este projeto foi criado para praticar:
 
@@ -60,13 +60,13 @@ Este projeto foi criado para praticar:
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 Victor N. Campos(cosmico)
 Estudante de Java, Desenvolvimento Android e Python com Django
 
 ---
 
-## 📌 Observação
+## Observação
 
 Projeto desenvolvido inteiramente pelo tablet usando **AIDE**.
